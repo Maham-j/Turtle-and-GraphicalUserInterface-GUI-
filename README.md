@@ -11,14 +11,13 @@ The **Turtle Graphics Playground** is your canvas of imagination, powered by Pyt
 1. Open the script in your Python environment.
 2. Unleash Timmy the Turtle by running the code.
 3. Experiment with different sections by uncommenting them.
-4. Witness as Timmy crafts beautiful initials, dashed lines, colorful shapes, and more.
+4. Witness as Timmy crafts beautiful initials, dashed lines, and more.
 
 ## 🎉 Exploring the Turtle Masterpieces
 
 1. **Initial Art:** Uncomment Timmy's name initial creation code and watch the magic unfold.
 2. **Dashed Line:** Reveal the elegance of dashed lines by uncommenting the dashed line code.
-3. **Colorful Shapes:** Set free your inner artist with the vibrant shapes created using the change_color function.
-4. **Random Direction and Bold Moves:** See Timmy dance around with randomness and boldness.
+3. **Random Direction and Bold Moves:** See Timmy dance around with randomness and boldness.
 
 ## 🎨 Customization and Artistry
 
