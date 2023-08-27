@@ -25,7 +25,7 @@ Feel the freedom to tweak the script, change colors, modify shapes, or experimen
 
 # 📄 License to Express
 
-This artistic endeavor falls under the MIT License. Brush up on the details in the LICENSE file.
+This artistic endeavor falls under the GNU GENERAL PUBLIC LICENSE. Brush up on the details in the LICENSE file.
 
 # 📞 Connect with the Artisan
 
