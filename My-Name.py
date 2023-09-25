@@ -1,7 +1,7 @@
 from turtle import Turtle, Screen
 import random
 
-timmy = Turtle()
+timmy = Turtle() 
 
 '''for my name initial'''
 timmy.shape('turtle')
