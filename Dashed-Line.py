@@ -1,5 +1,5 @@
 from turtle import Turtle, Screen
-import random 
+import random  
 
 timmy = Turtle()
 ''' for the dashed line'''
