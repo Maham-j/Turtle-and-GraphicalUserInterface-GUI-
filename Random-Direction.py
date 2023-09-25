@@ -1,6 +1,6 @@
 from turtle import Turtle, Screen
 import random 
-
+ 
 timmy = Turtle()
 '''random direction and bold '''
 direction = [0, 90, 180, 270, 360]
