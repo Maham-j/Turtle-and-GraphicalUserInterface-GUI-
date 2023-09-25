@@ -1,7 +1,7 @@
 from turtle import Turtle, Screen
 import random  
 
-timmy = Turtle()
+timmy = Turtle() 
 ''' for the dashed line'''
 for _ in range(15):
     timmy.forward(10)
