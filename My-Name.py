@@ -1,6 +1,6 @@
 from turtle import Turtle, Screen
 import random
-
+ 
 timmy = Turtle() 
 
 '''for my name initial'''
