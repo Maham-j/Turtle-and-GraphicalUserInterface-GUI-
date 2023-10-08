@@ -3,7 +3,7 @@ import random
  
 timmy = Turtle() 
 
-'''for my name initial'''
+'''for my name initial''' 
 timmy.shape('turtle')
 timmy.color("purple")
 timmy.left(90)
