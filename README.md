@@ -31,9 +31,9 @@ This artistic endeavor falls under the GNU GENERAL PUBLIC LICENSE. Brush up on t
 
 If you have queries, artistic breakthroughs, or just want to chat about code and art, find me on GitHub or LinkedIn:
 
-GitHub: [https://github.com/Maham-j]
+GitHub: [GitHub](https://github.com/Maham-j)
 
-LinkedIn: [https://www.linkedin.com/in/maham-jamil-268584267]
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267)
 
 Unleash your creative genius with the Turtle Graphics Playground! 🎨🐢✨
 
